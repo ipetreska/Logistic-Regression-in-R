@@ -1,5 +1,5 @@
 # Logistic-Regression-in-R
-My Logistic Regression model in R to find the predictors of attrition
+My Process for Random Forest & Logistic Regression model in R to find the predictors of attrition
 
 # STEP 1: Install & load packages (only run install lines once)
 install.packages("tidyverse")
